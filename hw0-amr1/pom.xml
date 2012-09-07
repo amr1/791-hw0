@@ -4,8 +4,8 @@
 	<artifactId>hw0-amr1</artifactId>
 	<version>0.0.6</version>
 	<scm>
-		<connection>scm:git:git@github.com:amr1/791-hw0.git</connection>
-		<developerConnection>scm:git:git@github.com:amr1/791-hw0.git</developerConnection>
+		<connection>scm:git:amr1@github.com:amr1/791-hw0.git</connection>
+		<developerConnection>scm:git:amr1@github.com:amr1/791-hw0.git</developerConnection>
 	</scm>
 	<repositories>
 		<repository>
